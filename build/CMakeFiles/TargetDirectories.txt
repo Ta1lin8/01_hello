@@ -1,3 +1,0 @@
-/home/Ta1lin/hello_corehard/01_hello/build/CMakeFiles/rebuild_cache.dir
-/home/Ta1lin/hello_corehard/01_hello/build/CMakeFiles/hello.dir
-/home/Ta1lin/hello_corehard/01_hello/build/CMakeFiles/edit_cache.dir
